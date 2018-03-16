@@ -1,0 +1,10 @@
+*.o
+*~
+pipelineNaive
+pipelineStall
+pipelineForward
+pipelineBP
+*.mem
+*.yo
+.vscode/*
+.DS_Store
